@@ -17,3 +17,6 @@ GET /api/notes - Should read the db.json file and return all saved notes as JSON
 POST /api/notes - Should receive a new note to save on the request body, add it to the db.json file, and then return the new note to the client.
 
 DELETE /api/notes/:id - Should receive a query parameter containing the id of a note to delete. 
+
+DEPLOYED APP WITH HEROKU:
+https://notetaker29.herokuapp.com
