@@ -20,3 +20,7 @@ DELETE /api/notes/:id - Should receive a query parameter containing the id of a 
 
 DEPLOYED APP WITH HEROKU:
 https://notetaker29.herokuapp.com
+
+CONTACT:
+teli203@aol.com
+https://github.com/teli203
